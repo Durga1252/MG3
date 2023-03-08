@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-07T21:20:41 IST" name="Suite" finished-at="2023-03-07T21:21:14 IST" duration-ms="32958">
+    <groups>
+    </groups>
+    <test started-at="2023-03-07T21:20:41 IST" name="Test" finished-at="2023-03-07T21:21:14 IST" duration-ms="32958">
+      <class name="testclass.TC02_verifylogoutfunctionality">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testclass.TC02_verifylogoutfunctionality@58695725]" started-at="2023-03-07T21:20:58 IST" name="setUp" finished-at="2023-03-07T21:21:03 IST" duration-ms="4483" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validation()[pri:0, instance:testclass.TC02_verifylogoutfunctionality@58695725]" started-at="2023-03-07T21:21:03 IST" name="validation" finished-at="2023-03-07T21:21:03 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testclass.TC02_verifylogoutfunctionality@58695725]" started-at="2023-03-07T21:21:03 IST" name="tearDown" finished-at="2023-03-07T21:21:03 IST" duration-ms="522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testclass.TC02_verifylogoutfunctionality -->
+      <class name="testclass.TC01_swaglogin">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testclass.TC01_swaglogin@543588e6]" started-at="2023-03-07T21:21:03 IST" name="setUp" finished-at="2023-03-07T21:21:08 IST" duration-ms="4447" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validation()[pri:0, instance:testclass.TC01_swaglogin@543588e6]" started-at="2023-03-07T21:21:08 IST" name="validation" finished-at="2023-03-07T21:21:08 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testclass.TC01_swaglogin@543588e6]" started-at="2023-03-07T21:21:08 IST" name="tearDown" finished-at="2023-03-07T21:21:09 IST" duration-ms="1139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testclass.TC01_swaglogin -->
+      <class name="testclass.TC03_verifybagproductaddtocartfunctinality">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testclass.TC03_verifybagproductaddtocartfunctinality@f5acb9d]" started-at="2023-03-07T21:21:09 IST" name="setUp" finished-at="2023-03-07T21:21:13 IST" duration-ms="4440" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validation()[pri:0, instance:testclass.TC03_verifybagproductaddtocartfunctinality@f5acb9d]" started-at="2023-03-07T21:21:13 IST" name="validation" finished-at="2023-03-07T21:21:14 IST" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testclass.TC03_verifybagproductaddtocartfunctinality@f5acb9d]" started-at="2023-03-07T21:21:14 IST" name="tearDown" finished-at="2023-03-07T21:21:14 IST" duration-ms="781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testclass.TC03_verifybagproductaddtocartfunctinality -->
+      <class name="testclass.TC04_verifyallproductsaddtocartfunctionality">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testclass.TC04_verifyallproductsaddtocartfunctionality@3d5c822d]" started-at="2023-03-07T21:20:42 IST" name="setUp" finished-at="2023-03-07T21:20:51 IST" duration-ms="9275" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTitle()[pri:0, instance:testclass.TC04_verifyallproductsaddtocartfunctionality@3d5c822d]" started-at="2023-03-07T21:20:51 IST" name="verifyTitle" finished-at="2023-03-07T21:20:51 IST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testclass.TC04_verifyallproductsaddtocartfunctionality@3d5c822d]" started-at="2023-03-07T21:20:51 IST" name="tearDown" finished-at="2023-03-07T21:20:52 IST" duration-ms="943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testclass.TC04_verifyallproductsaddtocartfunctionality@3d5c822d]" started-at="2023-03-07T21:20:52 IST" name="setUp" finished-at="2023-03-07T21:20:57 IST" duration-ms="5021" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyproduct()[pri:0, instance:testclass.TC04_verifyallproductsaddtocartfunctionality@3d5c822d]" started-at="2023-03-07T21:20:57 IST" name="verifyproduct" finished-at="2023-03-07T21:20:57 IST" duration-ms="486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyproduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testclass.TC04_verifyallproductsaddtocartfunctionality@3d5c822d]" started-at="2023-03-07T21:20:57 IST" name="tearDown" finished-at="2023-03-07T21:20:58 IST" duration-ms="725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testclass.TC04_verifyallproductsaddtocartfunctionality -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
